@@ -1,4 +1,4 @@
-# zapret-discord  Вот обновленный `README.md` для GitHub-репозитория, учитывающий функционал из предоставленных `.bat`-файлов:
+# zapret-discord  
 
 ```markdown
 # Zapret-Discord-YouTube: Обход блокировок
